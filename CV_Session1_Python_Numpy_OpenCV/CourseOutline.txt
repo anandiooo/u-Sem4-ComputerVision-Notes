@@ -1,0 +1,23 @@
+Sesi 1
+=======================================
+[] Review Python
+   - Input/Output
+   - Typecasting
+   - Selection
+   - Repetition
+   - Function
+   - Data Structure (List, Set, Dictionary, Tuple)
+[] Basic NumPy
+   - array
+   - shape
+   - zeros, ones,
+   - empty
+   - vstack, hstack
+   - random
+[] Basic OpenCV
+   - Load Image
+   - Color Manipulation
+   - Show Image
+   - Save Image
+
+   

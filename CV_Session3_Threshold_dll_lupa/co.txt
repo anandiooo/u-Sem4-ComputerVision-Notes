@@ -1,0 +1,17 @@
+Sesi 3
+=======================
+[] Grayscale
+[] Thresholding
+   [] Binary
+   [] Inverse Binary
+   [] Truncate
+   [] ToZero
+   [] Inverse ToZero
+[] Adaptive Thresholding
+   [] Mean
+   [] Gaussian
+[] Filtering
+   [] Mean Blur
+   [] Median Blur
+   [] Gaussian Blur
+   [] Bilateral Blur
